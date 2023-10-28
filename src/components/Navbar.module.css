@@ -1,0 +1,22 @@
+.backG{
+    background-color: rgb(66, 66, 150);
+    border-radius: 9px;
+    padding: .5rem;
+    
+}
+.btn{
+    background-color: white;
+    color: black;
+    border-radius: 70px;}
+
+.btn:hover{
+    background-color: rgb(7, 7, 82);
+    color: white;
+}
+.home{
+    margin-right: 2rem;
+}
+.drpdwn{
+    margin-left: 2rem;
+}
+
